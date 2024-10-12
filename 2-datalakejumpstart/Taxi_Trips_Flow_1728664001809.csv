@@ -1,0 +1,39 @@
+﻿"pu_borough","do_borough","Count"
+"Bronx","Unknown",240
+"Brooklyn","Unknown",194
+"EWR","Unknown",17
+"Queens","Unknown",3163
+"Staten Island","Unknown",16
+"Unknown","Unknown",13269
+"Bronx","Staten Island",56
+"Brooklyn","Staten Island",156
+"Queens","Staten Island",382
+"Staten Island","Staten Island",127
+"Unknown","Staten Island",6
+"Bronx","Queens",366
+"Brooklyn","Queens",1077
+"Queens","Queens",40118
+"Staten Island","Queens",189
+"Unknown","Queens",787
+"Bronx","Manhattan",2081
+"Brooklyn","Manhattan",4558
+"EWR","Manhattan",4
+"Queens","Manhattan",39076
+"Staten Island","Manhattan",18
+"Unknown","Manhattan",6131
+"Bronx","EWR",1
+"Brooklyn","EWR",11
+"EWR","EWR",110
+"Queens","EWR",159
+"Staten Island","EWR",1
+"Unknown","EWR",34
+"Bronx","Brooklyn",345
+"Brooklyn","Brooklyn",10607
+"Queens","Brooklyn",19017
+"Staten Island","Brooklyn",74
+"Unknown","Brooklyn",487
+"Bronx","Bronx",3713
+"Brooklyn","Bronx",421
+"Queens","Bronx",4585
+"Staten Island","Bronx",87
+"Unknown","Bronx",236
